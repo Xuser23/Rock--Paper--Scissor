@@ -15,7 +15,6 @@ while startGame == "y":
     #random play to the computer
     computer = playList[randint(0,2)]
      
-    #loop starts: player set to False
 
     game = int(input("How many game would you play?: "))
 
